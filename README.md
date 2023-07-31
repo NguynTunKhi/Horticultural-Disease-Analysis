@@ -1,0 +1,2 @@
+# Horticultural-Disease-Analysis
+This project focuses on the development of a machine learning model designed to classify various plant diseases using images of leaves. By leveraging image data, the model can accurately detect and identify plant diseases, aiding in their prevention and control. This application of machine learning in agriculture can significantly enhance crop yield while curtailing the spread of plant diseases, thereby offering substantial benefits to farmers and the larger food industry.
